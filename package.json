@@ -1,0 +1,29 @@
+{
+  "name": "page-prerenderer",
+  "version": "1.0.0",
+  "description": "Frame work for pre-rendering HTML pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeremyBankes/Page-Prerenderer.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Node",
+    "Page-Prerenderer",
+    "Render"
+  ],
+  "author": "Jeremy Bankes",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JeremyBankes/Page-Prerenderer/issues"
+  },
+  "homepage": "https://github.com/JeremyBankes/Page-Prerenderer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,15 @@
+:root {
+    --color1: #FFFFFF;
+    --color2: #333333;
+    --color3: #4682B4;
+}
+
+html {
+    color: var(--color1);
+    background-color: var(--color2);
+}
+
+a[navigate] {
+    color: var(--color3);
+    cursor: pointer;
+}
